@@ -1,5 +1,3 @@
 MH10e475ed-
-#SALF
-MHcc9f938-
 #TEGONDR
 MH7f6678b-
