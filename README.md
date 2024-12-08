@@ -18,3 +18,12 @@ MH3ffa6a3d-
 MHd60a06a-
 #SEED
 MHfd866a29-
+#WAKUR
+MHc47b832-
+MHac0a495-
+MHa5d36a8c-
+MHfc0facad-
+MH3490dc28-
+MH50c96a89-
+MHd7d76a3a-
+MH6adf684d0904-
